@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1434618811 source:e:\git\gotoc\manydice\diceroll.c
+	"diceroll.h"
+
+1434619550 e:\git\gotoc\manydice\diceroll.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1434619548 source:e:\git\gotoc\manydice\main.c
+	"diceroll.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1434805489 source:e:\git\gotoc\film\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1434790802 e:\git\gotoc\film\list.h
+	<stdbool.h>
+
+1434805381 source:e:\git\gotoc\film\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
