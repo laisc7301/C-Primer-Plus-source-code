@@ -14,7 +14,7 @@ int main(void)
 			i++;
 		if (words[i] == '\n')
 			words[i] = '\0';
-		else //如果word [ i ] =='\0'，则执行这邵分代码
+		else //如果word [i] =='\0'，则执行这邵分代码
 			while (getchar() != '\n')
 				continue;
 		puts(words);
